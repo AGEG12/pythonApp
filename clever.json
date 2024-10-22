@@ -1,0 +1,10 @@
+{
+  "name": "python-mysql-app",
+  "deploy": {
+    "environments": {
+      "production": {
+        "env": "python"
+      }
+    }
+  }
+}
